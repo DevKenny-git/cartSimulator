@@ -1,0 +1,21 @@
+{
+  "name": "cartsimulator",
+  "version": "1.0.0",
+  "description": "Simulate a cart object where you can add and remove item. You should also be able to tell the number of items in the cart and list them",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "add",
+    "remove",
+    "show-items",
+    "length",
+    "exit"
+  ],
+  "author": "Shodipe Oladele",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
